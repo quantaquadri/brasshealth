@@ -3,8 +3,8 @@
 }
 
 .elementor-element-populated{
-    background-color: #fff;
-    box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 25%);
+    background-color: #FDC300;
+    box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 10%);
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin: 20px 20px 20px 20px;
     padding: 20px 20px 20px 20px;
@@ -12,7 +12,7 @@
 }
 
 .ele-h1{
-    color: #e796b3 ;
+    color: #000 ;
     font-size: 50px;
     font-weight: 900;
 }
