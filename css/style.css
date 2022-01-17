@@ -185,7 +185,7 @@ p.lead.styled {
 
 /*General links color*/
 a {
-	color: #ed5434;
+	color: #FF5100;
 	text-decoration: none;
 	-webkit-transition: all 0.2s ease;
 	transition: all 0.2s ease;
@@ -208,7 +208,7 @@ a.btn_full,
 	font-size: inherit;
 	color: #fff;
 	width: 100%;
-	background: #ed5434;
+	background: #FF5100;
 	cursor: pointer;
 	padding: 12px 20px;
 	display: inline-block;
@@ -267,9 +267,10 @@ a.btn_1,
 	font-family: inherit;
 	font-size: inherit;
 	color: #fff;
-	background: #ed5434;
+	background: #FF5100;
 	cursor: pointer;
-	padding: 7px 15px;
+	padding: 15px 15px;
+	border-radius: 200px;
 	display: inline-block;
 	outline: none;
 	font-size: 13px;
@@ -278,7 +279,7 @@ a.btn_1,
 	transition: all 0.3s;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
-	border-radius: 3px;
+	/* border-radius: 3px; */
 	font-weight: 500;
 }
 
@@ -420,7 +421,7 @@ ul#access_top li {
 
 ul#access_top li a {
 	display: inline-block;
-	padding: 8px 15px 5px 15px;
+	padding: 10px;
 	text-transform: uppercase;
 	line-height: 1;
 	background-color: #f6f7f9;
@@ -2619,7 +2620,7 @@ label {
 .plan-features {
 	margin-bottom: 20px;
 	line-height: 2;
-	font-size: 12px;
+	font-size: 16px;
 	text-align: center;
 }
 
@@ -2640,7 +2641,7 @@ ul.plan-features {
 	margin-right: -30px;
 	position: relative;
 	z-index: 100;
-	border: solid #92278f;
+	border: solid #FF5100;
 	position: relative;
 }
 
@@ -2667,7 +2668,7 @@ ul.plan-features {
 	font-size: 30px;
 	font-weight: 500;
 	color: white;
-	background: #92278f;
+	background: #FF5100;
 	border-radius: 130px;
 	-webkit-border-radius: 130px;
 	-moz-border-radius: 130px;
