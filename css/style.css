@@ -13,7 +13,7 @@
 }
 
 .chromeframe a {
-	color: #ed1c24;
+	color: #fc906e;
 }
 
 /*-------- 1.1 Typography --------*/
@@ -115,7 +115,7 @@ h3.main_title {
 	margin: 0 0 45px 0;
 	padding: 0;
 	font-size: 36px;
-	color: #ed5434;
+	color: #fc906e;
 	text-transform: uppercase;
 }
 
@@ -185,7 +185,7 @@ p.lead.styled {
 
 /*General links color*/
 a {
-	color: #FF5100;
+	color: #fc906e;
 	text-decoration: none;
 	-webkit-transition: all 0.2s ease;
 	transition: all 0.2s ease;
@@ -208,7 +208,7 @@ a.btn_full,
 	font-size: inherit;
 	color: #fff;
 	width: 100%;
-	background: #FF5100;
+	background: #fc906e;
 	cursor: pointer;
 	padding: 12px 20px;
 	display: inline-block;
@@ -267,7 +267,7 @@ a.btn_1,
 	font-family: inherit;
 	font-size: inherit;
 	color: #fff;
-	background: #FF5100;
+	background: #fc906e;
 	cursor: pointer;
 	padding: 15px 15px;
 	border-radius: 200px;
@@ -293,8 +293,8 @@ a.btn_1_outline,
 	border: none;
 	font-family: inherit;
 	font-size: inherit;
-	color: #ed5434;
-	border: 2px solid #ed5434;
+	color: #fc906e;
+	border: 2px solid #fc906e;
 	cursor: pointer;
 	padding: 7px 15px;
 	display: inline-block;
@@ -322,7 +322,7 @@ a.btn_slider,
 	font-family: inherit;
 	font-size: inherit;
 	color: #fff;
-	background: #ed5434;
+	background: #fc906e;
 	cursor: pointer;
 	padding: 8px 20px;
 	display: inline-block;
@@ -340,12 +340,12 @@ a.btn_slider,
 a.btn_slider:hover,
 .btn_slider:hover {
 	background: #fff;
-	color: #ed5434;
+	color: #fc906e;
 }
 
 a.btn_1.white,
 .btn_1.white {
-	background: #ed5434;
+	background: #fc906e;
 	color: #fff;
 }
 
@@ -353,7 +353,7 @@ a.btn_1.white:hover,
 .btn_1.white a:hover,
 .btn_1.white:hover {
 	background: #fff;
-	color: #ed5434 !important;
+	color: #fc906e !important;
 }
 
 /*-------- 1.3 Structure --------*/
@@ -452,7 +452,7 @@ ul#access_top li a.search-overlay-menu-btn {
 
 ul#access_top li a.search-overlay-menu-btn:hover,
 header.sticky ul#access_top li a.search-overlay-menu-btn:hover {
-	color: #ed5434;
+	color: #fc906e;
 }
 
 header.sticky ul#access_top li a.search-overlay-menu-btn {
@@ -460,7 +460,7 @@ header.sticky ul#access_top li a.search-overlay-menu-btn {
 }
 
 footer {
-	background-color: #000;
+	background-color: #202e4c;
 	padding: 70px 0 70px 0;
 }
 
@@ -496,7 +496,7 @@ footer a:hover {
 #copy {
 	text-align: center;
 	font-size: 13px;
-	background-color: #000;
+	background-color: #202e4c;
 	padding: 15px;
 	color: #fff;
 	color: rgba(255, 255, 255, 0.6)
@@ -741,7 +741,7 @@ video {
 }
 
 #filter_buttons button:hover {
-	background-color: #ed5434;
+	background-color: #fc906e;
 	color: #fff;
 }
 
@@ -851,7 +851,7 @@ video {
 
 a#view_all {
 	background: #fff;
-	color: #ed5434;
+	color: #fc906e;
 	display: table;
 	width: 100%;
 	height: 330px;
@@ -863,7 +863,7 @@ a#view_all {
 }
 
 a#view_all:hover {
-	background: #ed5434;
+	background: #fc906e;
 	color: #fff;
 }
 
@@ -882,7 +882,7 @@ a#view_all span i {
 .promo_full {
 	height: auto;
 	/* background: url(../img/promo_bg.jpg) no-repeat center center; */
-	background-color: #FDC300;
+	background-color: #fc906e;
 	background-attachment: fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -1343,7 +1343,7 @@ input[type="radio"]:checked + label span {
 }
 
 .team-item-detail-inner .social li a:hover {
-	color: #ed5434;
+	color: #fc906e;
 }
 
 .team-item-info {
@@ -1591,7 +1591,7 @@ a#filters_col_bt:before {
 }
 
 .form_title h3 strong {
-	background-color: #ed5434;
+	background-color: #fc906e;
 	text-align: center;
 	width: 40px;
 	height: 40px;
@@ -1689,7 +1689,7 @@ ul#cat_nav li a {
 
 ul#cat_nav li a:hover,
 ul#cat_nav li a.active {
-	background: #ed5434;
+	background: #fc906e;
 	color: #fff;
 }
 
@@ -1702,7 +1702,8 @@ ul#cat_nav li a.active {
 
 .panel-title a {
 	display: block;
-	color: #444;
+	color: #fc906e;
+	font-weight: 500;
 }
 
 .panel-default > .panel-heading {
@@ -1726,7 +1727,7 @@ ul#cat_nav li a.active {
 }
 
 .panel-title a .indicator {
-	color: #ed5434;
+	color: #fc906e;
 }
 
 .panel-title a:hover .indicator {
@@ -1945,7 +1946,7 @@ s.checkbox-holder {
 .btn.btn-submit {
 	width: 100%;
 	margin-top: 30px;
-	color: #ed5434;
+	color: #fc906e;
 	padding: 10px;
 	background: #fff;
 	outline: none;
@@ -2641,7 +2642,7 @@ ul.plan-features {
 	margin-right: -30px;
 	position: relative;
 	z-index: 100;
-	border: solid #FF5100;
+	border: solid #fc906e;
 	position: relative;
 }
 
@@ -2668,7 +2669,7 @@ ul.plan-features {
 	font-size: 30px;
 	font-weight: 500;
 	color: white;
-	background: #FF5100;
+	background: #fc906e;
 	border-radius: 130px;
 	-webkit-border-radius: 130px;
 	-moz-border-radius: 130px;
@@ -2806,7 +2807,7 @@ ul.plan-features {
 }
 
 .search-overlay-menu .search-overlay-close:hover {
-	color: #ed5434;
+	color: #fc906e;
 	cursor: pointer;
 }
 
@@ -2867,7 +2868,7 @@ ul.plan-features {
 /*-------- 3.12 Pagination --------*/
 .pagination > li > a,
 .pagination > li > span {
-	color: #ed5434;
+	color: #fc906e;
 }
 
 .pagination > li > a:hover,
@@ -3211,7 +3212,7 @@ ul.plan-features {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-	background: #ed5434;
+	background: #fc906e;
 }
 
 .owl-item {
