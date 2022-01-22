@@ -52,12 +52,12 @@
 		font-size: 42px;
 	}
 	#hero_video {
-		background: #333 url(../img/sub_header_home.jpg);
+		background: #333 url(https://media.gettyimages.com/photos/senior-woman-exercising-at-home-picture-id1306155747?k=20&m=1306155747&s=612x612&w=0&h=SU8xr3npveXihCke8wuwkwCivlwl44yqxT59TnL2FkI=);
 		background-size: cover;
 		background-position: center center;
 	}
 	.header-video {
-		/* background: none; */
+		
 		background-image: url(https://media.gettyimages.com/photos/senior-woman-exercising-at-home-picture-id1306155747?k=20&m=1306155747&s=612x612&w=0&h=SU8xr3npveXihCke8wuwkwCivlwl44yqxT59TnL2FkI=);
 	
 	}
@@ -274,7 +274,10 @@
 
 @media (max-width: 480px) {
 	.header-video {
-		height: 320px !important;
+		height: 470px !important;
+		background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/b1b095133303395.61e9775c24d50.jpg) !important; 
+		background-position: center center;
+    background-repeat: no-repeat; background-size: cover;
 	}
 	h1.main_title,
 	h2.main_title {
